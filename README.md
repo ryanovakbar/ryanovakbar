@@ -3,7 +3,7 @@
 
   <h1>Hi, I'm Ryanov Akbar 👋</h1>
   <h3>Software Engineer</h3>
-  <p>"I am a software engineer dedicated to writing clean, maintainable code and building scalable, high-performance software systems. With a strong emphasis on software quality, system architecture, design principles such as DRY and KISS, and user experience."</p><br />
+  <p>"I am a software engineer focused on writing clean, maintainable code and designing scalable, high-performance software systems. I place a strong emphasis on software quality, system architecture, established design principles such as DRY and KISS, and delivering a seamless user experience."</p><br />
 
   <p>
     <a href="https://ryanovakbar.com"><img src="https://img.shields.io/badge/portfolio-020617.svg?style=for-the-badge&logo=r&logoColor=white"></a>
